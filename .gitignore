@@ -6,3 +6,5 @@ target/
 .project
 .settings/
 application-local.properties
+"target/" 
+"app.jar" 
